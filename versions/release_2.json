@@ -1,0 +1,154 @@
+class MyExtension {
+    getInfo() {
+        return {
+            id: "torchapi",
+            name: "Torch API",
+
+            blocks: [
+                {
+                    opcode: "getUserData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: "Fetch the [DATA] of user [USERNAME]",
+                    arguments: {
+                        USERNAME: {
+                            type: Scratch.ArgumentType.STRING,
+                            defaultValue: "CodeTorch"
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "dataMenu",
+                            defaultValue: "username"
+                        }
+                    }
+                },
+                {
+                    opcode: "getProjectData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: "Fetch the [DATA] of project [PROJECTID]",
+                    arguments: {
+                        PROJECTID: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "projectDataMenu",
+                            defaultValue: "title"
+                        }
+                    }
+                },
+                {
+                    opcode: "getPostData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: "Fetch the [DATA] of post [POSTID]",
+                    arguments: {
+                        POSTID: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "postDataMenu",
+                            defaultValue: "author"
+                        }
+                    }
+                }
+            ],
+
+            menus: {
+                dataMenu: {
+                    items: [
+                        { text: "Username", value: "username" },
+                        { text: "Display name", value: "display_name" },
+                        { text: "Icon URL", value: "pfp" },
+                        { text: "User ID", value: "id" },
+                        { text: "Following", value: "following_count" },
+                        { text: "Followers", value: "followers_count" },
+                        { text: "Verification Status", value: "verified"}
+                    ]
+                },
+                projectDataMenu: {
+                    items: [
+                        { text: "Title", value: "title" },
+                        { text: "Thumbnail", value: "thumbnail" },
+                        { text: "Project Type", value: "project_type" },
+                        { text: "Views", value: "views_count" },
+                        { text: "Loves", value: "loves_count" },
+                        { text: "Likes", value: "likes_count" },
+                        { text: "Comments Disabled", value: "comments_disabled" },
+                        { text: "Creator", value: "creator" }
+                    ]
+                },
+                postDataMenu: {
+                    items: [
+                        { text: "Author", value: "author" },
+                        { text: "Post Type", value: "post_type" },
+                        { text: "Content", value: "text_content" },
+                        { text: "Created at", value: "created_at" },
+                        { text: "Loves", value: "loves_count" },
+                        { text: "Reposts", value: "reposts_count" },
+                        { text: "Comments", value: "comments_count" },
+                        { text: "Votes", value: "votes_count" },
+                        { text: "Comments Disabled", value: "comments_disabled" }
+                    ]
+                }
+            }
+        };
+    }
+
+    async getUserData(args) {
+        try {
+            const username = encodeURIComponent(args.USERNAME);
+
+            const res = await fetch(`https://api.codetorch.net/v1/users/${username}`);
+            if (!res.ok) return "";
+
+            const data = await res.json();
+
+            return data[args.DATA] ?? "None";
+
+        } catch (e) {
+            return "Communication failure";
+        }
+    }
+    async getProjectData(args) {
+        try {
+            const projectId = encodeURIComponent(args.PROJECTID);
+
+            const res = await fetch(`https://api.codetorch.net/v1/projects/${projectId}`);
+            if (!res.ok) return "";
+
+            const data = await res.json();
+
+            if (args.DATA === "creator") {
+                return data.author?.username ?? "None";
+            }
+
+            return data[args.DATA] ?? "None";
+
+        } catch (e) {
+            return "Communication failure";
+        }
+    }
+    async getPostData(args) {
+        try {
+            const postId = encodeURIComponent(args.POSTID);
+
+            const res = await fetch(`https://api.codetorch.net/v1/posts/${postId}`);
+            if (!res.ok) return "";
+
+            const data = await res.json();
+
+            if (args.DATA === "author") {
+                return data.author?.username ?? "None";
+            }
+
+            return data[args.DATA] ?? "None";
+
+        } catch (e) {
+            return "Communication failure";
+        }
+    }
+}
+
+Scratch.extensions.register(new MyExtension());
