@@ -1,0 +1,319 @@
+Scratch.translate.setup({"ca":{"_Fetch the [DATA] of user [USERNAME]":"Obtenir [DATA] de l'usuari [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Obtenir [DATA] del projecte [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Obtenir [DATA] de la publicaciÃ³ [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"ObtÃ© les [DATA] de l'assoliment personalitzat [ACHIEVEMENTID] del projecte [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Recupera el [DATA] de la colÂ·lecciÃ³ [COLLECTIONID] per a l'usuari [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Recupera el [DATA] per a la classificaciÃ³ d'usuaris amb el rang [RANK]","_Is user [USERNAME] available?":"L'usuari [USERNAME] estÃ  disponible?"},"cs":{"_Fetch the [DATA] of user [USERNAME]":"ZÃ­skat [DATA] uÅ¾ivatele [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"ZÃ­skat [DATA] projektu [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"ZÃ­skat [DATA] pÅÃ­spÄvku [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"ZÃ­skat [DATA] vlastnÃ­ho achievementu [ACHIEVEMENTID] pro projekt [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"NaÄtÄte [DATA] kolekce [COLLECTIONID] pro uÅ¾ivatele [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"NaÄtÄte [DATA] pro Å¾ebÅÃ­Äek uÅ¾ivatelÅ¯ s hodnostÃ­ [RANK]","_Is user [USERNAME] available?":"Je uÅ¾ivatel [USERNAME] dostupnÃ½?"},"de":{"_Fetch the [DATA] of user [USERNAME]":"Hole die [DATA] des Benutzers [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Hole die [DATA] des Projekts [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Hole die [DATA] des Beitrags [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Rufe die [DATA] der benutzerdefinierten Errungenschaft [ACHIEVEMENTID] fÃ¼r das Projekt [PROJECTID] ab","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Rufe die [DATA] der Sammlung [COLLECTIONID] fÃ¼r den Benutzer [USERNAME] ab","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Rufe die [DATA] fÃ¼r die Rangliste der Benutzer mit dem Rang [RANK] ab","_Is user [USERNAME] available?":"Ist der Benutzer [USERNAME] verfÃ¼gbar?"},"es":{"_Fetch the [DATA] of user [USERNAME]":"Obtener [DATA] del usuario [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Obtener [DATA] del proyecto [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Obtener [DATA] de la publicaciÃ³n [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Obtener los [DATA] del logro personalizado [ACHIEVEMENTID] para el proyecto [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"ObtÃ©n el [DATA] de la colecciÃ³n [COLLECTIONID] para el usuario [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"ObtÃ©n el [DATA] para la clasificaciÃ³n de usuarios con el rango [RANK]","_Is user [USERNAME] available?":"Â¿EstÃ¡ disponible el usuario [USERNAME]?"},"fi":{"_Fetch the [DATA] of user [USERNAME]":"Hae kÃ¤yttÃ¤jÃ¤n [USERNAME] [DATA]","_Fetch the [DATA] of project [PROJECTID]":"Hae projektin [PROJECTID] [DATA]","_Fetch the [DATA] of post [POSTID]":"Hae postauksen [POSTID] [DATA]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Hae mukautetun saavutuksen [ACHIEVEMENTID] [DATA] projektista [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Hae kokoelman [COLLECTIONID] [DATA] kÃ¤yttÃ¤jÃ¤lle [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Hae [DATA] kÃ¤yttÃ¤jien tulostaulukolle, joilla on sijoitus [RANK]","_Is user [USERNAME] available?":"Onko kÃ¤yttÃ¤jÃ¤ [USERNAME] saatavilla?"},"fr":{"_Fetch the [DATA] of user [USERNAME]":"RÃ©cupÃ©rer le [DATA] de l'utilisateur [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"RÃ©cupÃ©rer le [DATA] du projet [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"RÃ©cupÃ©rer le [DATA] du post [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"RÃ©cupÃ©rer les [DATA] du succÃ¨s personnalisÃ© [ACHIEVEMENTID] du projet [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"RÃ©cupÃ©rer le [DATA] de la collection [COLLECTIONID] pour l'utilisateur [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"RÃ©cupÃ©rer le [DATA] pour le classement des utilisateurs ayant le rang [RANK]","_Is user [USERNAME] available?":"L'utilisateur [USERNAME] est-il disponible ?"},"he":{"_Fetch the [DATA] of user [USERNAME]":"×©×××£ ××ª [DATA] ×©× ×××©×ª××© [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"×©×××£ ××ª [DATA] ×©× ××¤×¨×××§× [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"×©×××£ ××ª [DATA] ×©× ××¤××¡× [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"××××¨ ××ª ×-[DATA] ×©× ××××©× ××××ª×× ×××©××ª [ACHIEVEMENTID] ×¢×××¨ ××¤×¨×××§× [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"××××¨ ××ª ×-[DATA] ×©× ××××¡×£ [COLLECTIONID] ×¢×××¨ ×××©×ª××© [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"××××¨ ××ª ×-[DATA] ×¢×××¨ ××××ª ××××¨×× ×©× ××©×ª××©×× ×¢× ××××¨×× [RANK]","_Is user [USERNAME] available?":"××× ×××©×ª××© [USERNAME] ××××?"},"hu":{"_Fetch the [DATA] of user [USERNAME]":"LekÃ©rni a [DATA]-t a [USERNAME] felhasznÃ¡lÃ³tÃ³l","_Fetch the [DATA] of project [PROJECTID]":"LekÃ©rni a [DATA]-t a [PROJECTID] projekttÅl","_Fetch the [DATA] of post [POSTID]":"LekÃ©rni a [DATA]-t a [POSTID] bejegyzÃ©stÅl","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"LekÃ©rni a [DATA] Ã©rtÃ©keit a(z) [ACHIEVEMENTID] egyÃ©ni teljesÃ­tmÃ©nyhez a(z) [PROJECTID] projekthez","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"A [COLLECTIONID] gyÅ±jtemÃ©ny [DATA] adatainak lekÃ©rÃ©se a(z) [USERNAME] felhasznÃ¡lÃ³hoz","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"A [DATA] lekÃ©rÃ©se a(z) [RANK] rangÃº felhasznÃ¡lÃ³k ranglistÃ¡jÃ¡hoz","_Is user [USERNAME] available?":"ElÃ©rhetÅ a(z) [USERNAME] felhasznÃ¡lÃ³?"},"it":{"_Fetch the [DATA] of user [USERNAME]":"Recupera [DATA] dell'utente [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Recupera [DATA] del progetto [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Recupera [DATA] del post [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Recupera i [DATA] del traguardo personalizzato [ACHIEVEMENTID] per il progetto [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Recupera il [DATA] della collezione [COLLECTIONID] per l'utente [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Recupera il [DATA] per la classifica degli utenti con il rango [RANK]","_Is user [USERNAME] available?":"L'utente [USERNAME] Ã¨ disponibile?"},"ja":{"_Fetch the [DATA] of user [USERNAME]":"ã¦ã¼ã¶ã¼ [USERNAME] ã® [DATA] ãåå¾","_Fetch the [DATA] of project [PROJECTID]":"ãã­ã¸ã§ã¯ã [PROJECTID] ã® [DATA] ãåå¾","_Fetch the [DATA] of post [POSTID]":"æç¨¿ [POSTID] ã® [DATA] ãåå¾","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"ãã­ã¸ã§ã¯ã[PROJECTID]ã®ã«ã¹ã¿ã å®ç¸¾[ACHIEVEMENTID]ã®[DATA]ãåå¾ãã","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"ã¦ã¼ã¶ã¼[USERNAME]ã®ã³ã¬ã¯ã·ã§ã³[COLLECTIONID]ã®[DATA]ãåå¾ãã","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"ã©ã³ã¯[RANK]ã®ã¦ã¼ã¶ã¼ã®ãªã¼ãã¼ãã¼ãã®[DATA]ãåå¾ãã","_Is user [USERNAME] available?":"ã¦ã¼ã¶ã¼[USERNAME]ã¯å©ç¨å¯è½ã§ããï¼"},"ko":{"_Fetch the [DATA] of user [USERNAME]":"ì¬ì©ì [USERNAME] ì [DATA] ê°ì ¸ì¤ê¸°","_Fetch the [DATA] of project [PROJECTID]":"íë¡ì í¸ [PROJECTID] ì [DATA] ê°ì ¸ì¤ê¸°","_Fetch the [DATA] of post [POSTID]":"ê²ìë¬¼ [POSTID] ì [DATA] ê°ì ¸ì¤ê¸°","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"íë¡ì í¸ [PROJECTID]ì ì¬ì©ì ì§ì  ìì  [ACHIEVEMENTID]ì [DATA]ë¥¼ ê°ì ¸ìµëë¤","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"ì¬ì©ì [USERNAME]ì ì»¬ë ì [COLLECTIONID]ì [DATA]ë¥¼ ê°ì ¸ì¤ê¸°","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"ë­í¬ [RANK]ë¥¼ ê°ì§ ì¬ì©ì ë¦¬ëë³´ëì [DATA]ë¥¼ ê°ì ¸ì¤ê¸°","_Is user [USERNAME] available?":"ì¬ì©ì [USERNAME]ì(ë¥¼) ì¬ì©í  ì ìëì?"},"lt":{"_Fetch the [DATA] of user [USERNAME]":"Gauti [DATA] vartotojo [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Gauti [DATA] projekto [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Gauti [DATA] Ä¯raÅ¡o [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Gauti [DATA] iÅ¡ pasirinktino pasiekimo [ACHIEVEMENTID] projektui [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Gauti [DATA] iÅ¡ kolekcijos [COLLECTIONID] naudotojui [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Gauti [DATA] naudotojÅ³ su rangu [RANK] lyderiÅ³ lentelei","_Is user [USERNAME] available?":"Ar naudotojas [USERNAME] yra prieinamas?"},"nb":{"_Fetch the [DATA] of user [USERNAME]":"Hent [DATA] til brukeren [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Hent [DATA] til prosjektet [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Hent [DATA] til innlegget [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Hent [DATA] for den egendefinerte prestasjonen [ACHIEVEMENTID] for prosjektet [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Hent [DATA] for samlingen [COLLECTIONID] for brukeren [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Hent [DATA] for topplisten over brukere med rang [RANK]","_Is user [USERNAME] available?":"Er brukeren [USERNAME] tilgjengelig?"},"nl":{"_Fetch the [DATA] of user [USERNAME]":"Haal [DATA] op van gebruiker [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Haal [DATA] op van project [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Haal [DATA] op van bericht [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Haal de [DATA] van de aangepaste prestatie [ACHIEVEMENTID] voor project [PROJECTID] op","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Haal de [DATA] op van collectie [COLLECTIONID] voor gebruiker [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Haal de [DATA] op voor het klassement van gebruikers met rang [RANK]","_Is user [USERNAME] available?":"Is gebruiker [USERNAME] beschikbaar?"},"pl":{"_Fetch the [DATA] of user [USERNAME]":"Pobierz [DATA] uÅ¼ytkownika [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Pobierz [DATA] projektu [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Pobierz [DATA] posta [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Pobierz [DATA] niestandardowego osiÄgniÄcia [ACHIEVEMENTID] dla projektu [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Pobierz [DATA] kolekcji [COLLECTIONID] dla uÅ¼ytkownika [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Pobierz [DATA] dla rankingu uÅ¼ytkownikÃ³w z rangÄ [RANK]","_Is user [USERNAME] available?":"Czy uÅ¼ytkownik [USERNAME] jest dostÄpny?"},"pt":{"_Fetch the [DATA] of user [USERNAME]":"Obter [DATA] do utilizador [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Obter [DATA] do projeto [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Obter [DATA] da publicaÃ§Ã£o [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Obter os [DATA] da conquista personalizada [ACHIEVEMENTID] do projeto [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Obter o [DATA] da coleÃ§Ã£o [COLLECTIONID] para o utilizador [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Obter o [DATA] para a classificaÃ§Ã£o de utilizadores com o nÃ­vel [RANK]","_Is user [USERNAME] available?":"O utilizador [USERNAME] estÃ¡ disponÃ­vel?"},"pt-br":{"_Fetch the [DATA] of user [USERNAME]":"Obter [DATA] do usuÃ¡rio [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Obter [DATA] do projeto [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Obter [DATA] da postagem [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Obter os [DATA] da conquista personalizada [ACHIEVEMENTID] do projeto [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Obter o [DATA] da coleÃ§Ã£o [COLLECTIONID] para o usuÃ¡rio [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Obter o [DATA] para o ranking de usuÃ¡rios com o nÃ­vel [RANK]","_Is user [USERNAME] available?":"O usuÃ¡rio [USERNAME] estÃ¡ disponÃ­vel?"},"ru":{"_Fetch the [DATA] of user [USERNAME]":"ÐÐ¾Ð»ÑÑÐ¸ÑÑ [DATA] Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"ÐÐ¾Ð»ÑÑÐ¸ÑÑ [DATA] Ð¿ÑÐ¾ÐµÐºÑÐ° [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"ÐÐ¾Ð»ÑÑÐ¸ÑÑ [DATA] Ð¿Ð¾ÑÑÐ° [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"ÐÐ¾Ð»ÑÑÐ¸ÑÑ [DATA] Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÑÑÐºÐ¾Ð³Ð¾ Ð´Ð¾ÑÑÐ¸Ð¶ÐµÐ½Ð¸Ñ [ACHIEVEMENTID] Ð´Ð»Ñ Ð¿ÑÐ¾ÐµÐºÑÐ° [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"ÐÐ¾Ð»ÑÑÐ¸ÑÑ [DATA] ÐºÐ¾Ð»Ð»ÐµÐºÑÐ¸Ð¸ [COLLECTIONID] Ð´Ð»Ñ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"ÐÐ¾Ð»ÑÑÐ¸ÑÑ [DATA] Ð´Ð»Ñ ÑÐ°Ð±Ð»Ð¸ÑÑ Ð»Ð¸Ð´ÐµÑÐ¾Ð² Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÐµÐ¹ Ñ ÑÐ°Ð½Ð³Ð¾Ð¼ [RANK]","_Is user [USERNAME] available?":"ÐÐ¾ÑÑÑÐ¿ÐµÐ½ Ð»Ð¸ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ [USERNAME]?"},"sl":{"_Fetch the [DATA] of user [USERNAME]":"Pridobi [DATA] uporabnika [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Pridobi [DATA] projekta [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Pridobi [DATA] objave [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Pridobi [DATA] prilagojenega doseÅ¾ka [ACHIEVEMENTID] za projekt [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Pridobi [DATA] zbirke [COLLECTIONID] za uporabnika [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Pridobi [DATA] za lestvico uporabnikov z rangom [RANK]","_Is user [USERNAME] available?":"Ali je uporabnik [USERNAME] na voljo?"},"sv":{"_Fetch the [DATA] of user [USERNAME]":"HÃ¤mta [DATA] fÃ¶r anvÃ¤ndare [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"HÃ¤mta [DATA] fÃ¶r projekt [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"HÃ¤mta [DATA] fÃ¶r inlÃ¤gg [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"HÃ¤mta [DATA] fÃ¶r den anpassade prestationen [ACHIEVEMENTID] fÃ¶r projektet [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"HÃ¤mta [DATA] fÃ¶r samlingen [COLLECTIONID] fÃ¶r anvÃ¤ndaren [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"HÃ¤mta [DATA] fÃ¶r topplistan Ã¶ver anvÃ¤ndare med rank [RANK]","_Is user [USERNAME] available?":"Ãr anvÃ¤ndaren [USERNAME] tillgÃ¤nglig?"},"tr":{"_Fetch the [DATA] of user [USERNAME]":"[USERNAME] kullanÄ±cÄ±sÄ±nÄ±n [DATA]'sÄ±nÄ± al","_Fetch the [DATA] of project [PROJECTID]":"[PROJECTID] projesinin [DATA]'sÄ±nÄ± al","_Fetch the [DATA] of post [POSTID]":"[POSTID] gÃ¶nderisinin [DATA]'sÄ±nÄ± al","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Proje [PROJECTID] iÃ§in Ã¶zel baÅarÄ± [ACHIEVEMENTID] iÃ§in [DATA] deÄerini al","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"KullanÄ±cÄ± [USERNAME] iÃ§in [COLLECTIONID] koleksiyonunun [DATA] verisini getir","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"[RANK] sÄ±ralamasÄ±na sahip kullanÄ±cÄ±larÄ±n liderlik tablosu iÃ§in [DATA] verisini getir","_Is user [USERNAME] available?":"[USERNAME] kullanÄ±cÄ±sÄ± uygun mu?"},"uk":{"_Fetch the [DATA] of user [USERNAME]":"ÐÑÑÐ¸Ð¼Ð°ÑÐ¸ [DATA] ÐºÐ¾ÑÐ¸ÑÑÑÐ²Ð°ÑÐ° [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"ÐÑÑÐ¸Ð¼Ð°ÑÐ¸ [DATA] Ð¿ÑÐ¾ÑÐºÑÑ [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"ÐÑÑÐ¸Ð¼Ð°ÑÐ¸ [DATA] Ð´Ð¾Ð¿Ð¸ÑÑ [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"ÐÑÑÐ¸Ð¼Ð°ÑÐ¸ [DATA] ÐºÐ¾ÑÐ¸ÑÑÑÐ²Ð°ÑÑÐºÐ¾Ð³Ð¾ Ð´Ð¾ÑÑÐ³Ð½ÐµÐ½Ð½Ñ [ACHIEVEMENTID] Ð´Ð»Ñ Ð¿ÑÐ¾ÑÐºÑÑ [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"ÐÑÑÐ¸Ð¼Ð°ÑÐ¸ [DATA] ÐºÐ¾Ð»ÐµÐºÑÑÑ [COLLECTIONID] Ð´Ð»Ñ ÐºÐ¾ÑÐ¸ÑÑÑÐ²Ð°ÑÐ° [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"ÐÑÑÐ¸Ð¼Ð°ÑÐ¸ [DATA] Ð´Ð»Ñ ÑÐ°Ð±Ð»Ð¸ÑÑ Ð»ÑÐ´ÐµÑÑÐ² ÐºÐ¾ÑÐ¸ÑÑÑÐ²Ð°ÑÑÐ² ÑÐ· ÑÐ°Ð½Ð³Ð¾Ð¼ [RANK]","_Is user [USERNAME] available?":"Ð§Ð¸ Ð´Ð¾ÑÑÑÐ¿Ð½Ð¸Ð¹ ÐºÐ¾ÑÐ¸ÑÑÑÐ²Ð°Ñ [USERNAME]?"},"zh-cn":{"_Fetch the [DATA] of user [USERNAME]":"è·åç¨æ· [USERNAME] ç [DATA]","_Fetch the [DATA] of project [PROJECTID]":"è·åé¡¹ç® [PROJECTID] ç [DATA]","_Fetch the [DATA] of post [POSTID]":"è·åå¸å­ [POSTID] ç [DATA]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"è·åé¡¹ç® [PROJECTID] çèªå®ä¹æå°± [ACHIEVEMENTID] ç [DATA]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"è·åç¨æ·[USERNAME]çéå[COLLECTIONID]ç[DATA]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"è·åæåä¸º[RANK]çç¨æ·æè¡æ¦ç[DATA]","_Is user [USERNAME] available?":"ç¨æ·[USERNAME]æ¯å¦å¯ç¨ï¼"},"zh-tw":{"_Fetch the [DATA] of user [USERNAME]":"åå¾ä½¿ç¨è [USERNAME] ç [DATA]","_Fetch the [DATA] of project [PROJECTID]":"åå¾å°æ¡ [PROJECTID] ç [DATA]","_Fetch the [DATA] of post [POSTID]":"åå¾è²¼æ [POSTID] ç [DATA]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"åå¾å°æ¡ [PROJECTID] çèªè¨æå°± [ACHIEVEMENTID] ç [DATA]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"åå¾ä½¿ç¨è[USERNAME]çéå[COLLECTIONID]ç[DATA]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"åå¾æåçº[RANK]çä½¿ç¨èæè¡æ¦ç[DATA]","_Is user [USERNAME] available?":"ä½¿ç¨è[USERNAME]æ¯å¦å¯ç¨ï¼"}});
+(function (Scratch) {
+    "use strict";
+
+    class TorchAPI {
+    getInfo() {
+        return {
+            id: "torchapi",
+            name: "Torch API",
+            menuIconURI: 'data:image/png;base64,UklGRlwEAABXRUJQVlA4WAoAAAAQAAAALwAALwAAQUxQSBcCAAABoGvbtmnbGte2bdu27Rud8NqRbdu27fts27ZtHPTegzWX5hdExARY8oUf62t+bwYulPGpyf8Evhnj0Wo4z5X2psT3IAB81tEXWwj3/+N8qQs6kJXhif2I0MxennwYhh9q+PF7BNzzojEYAeN92IDIH+ROr8bf0TA6tUIvMsaDaZV6nAQDma7MMun0+gyhWRNcyEghd6+bAAEGztgnrq2JtTjwPUmCBIA/q9se12MJNX6IJAESIIDpZpNdnySSe+n/EoMAAeC0mQ10/ZJEoUuMCBC4ld/MursyE8j3ICUHCBLYX8DMbKTrxwQOiBFBfD7GnFNd78YbQ1FUAD89f2B0PnOfdD0Uq9jXokhSmfvaWNTcX7rWxZonSiL5XmOLPgzukXHyfCaKFF8vZdFzPeb6t3Sc3qIo8dfqFjMD7osWd6UkkZprcfs94xoa6zGJFDNLxjLr9RCAl3PH+kRBPmKJdriW09di/yGK5OFkzOpa/GyJknYkleTvkihe8+ctSqR+yu/NOUmUOMabyZJE8sOCvlTKESlR+32xq5JEkqtzedI4h6JI8WzpkGK76qRhR0RRpPjDglpmuRvP+YJfNkijzMeiGPrXn0TwmyYpWIPfSSkAkgAB4Oe2KVjfPxgOgnD+1DoFa/yRAnCEft81DSt9IEskCRAEAVyuZCk3upxFgkQw82on87DihNOv/pzz2/vPbBtVxpIEAFZQOCAeAgAAsA8AnQEqMAAwAD4xEodCoiEMdmd+EAGCWwAxQrLvjeLfkZ+M3yCUx+a/Zn8ksuz5c+YDeOPMA9QHmA/aD0ZuoA/qX+q6wD0AP2O9T//Ofsz8DP7n/tv8AH6+PqpRHr6c+SspADXNUnfvGiy4LByDPXP1ZajTt61Bb17GNT2uGN+uSQX5L8AA/vw12kyQv4nuahIfePayZXis3VhsxF8MtoaSAyJRWAfRroWxRoXi+C1XyWxdvp/2cMXeHIsP7NdjsayZsBtt1AtBraitXgDivWFhoSc2DV3YLZK/7nXptRA0sfmnfoypmvdigHtBVYFi3GMI4c95zFoclxisGMUt0+mjzU6X8velBgnfw1GQe8u7w4/ofbQll3nNT3PW1ERRi5+B9obg87YhMigoMOnwdmBdpXntEWiuL/MrMAT8b71UqbCfDZviSdm+dxVhRNgg9/WR7SSztIymNHxhSj44Edf1yuww3y5WPh1MemPjEttpMbdDjxwYZX1mfeekDQxsePPjsnZ4ipRyKJgI07WVUKq+1vlvYvj+1dhVOTvt86Vd2OFusGZloTG90eBN3DorPPd/3aauNjAF2zK546Hz/vKHI5ZfLuBP6/I1u/kLkdt161Hf6NGFcMyWZ1zEFKyWIW9rPDlYZEJiHkZTXdSm8jd/4XZegHxHEg5vxZv/+UB//KfP/+UDkjJaSgsQe65g75PPRa5XYygVyYHUAAA=',
+            blockIconURI: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACyElEQVR4AcyYv24TQRDG10GEBCkS9BQ0iILy3FhuQkGDRKQUl1dIxyv48gx0eYRLk9DQIIXCcnVuEQUSBS8ASID4l2W/061jne5mZ3d2Lz75897ezs58v7u1vfKWGuCoXmR3dXPELjcIQPa6+m6NNxza9qVtcgAY7jLZd70rlrqWHIAqDgiIinGNJQd4ezy+5zIhgUgO8Ox0+dUFgPFQiOQAMMdVCMQgACNzpIIYBIBr3sb5PImNBLAgnHYQAJ87ak1z5wwCYE35troonP6cAb5F2/HcO9meV/dns391S7wlBVjkD3aJ2lGGkgHgzk/Kzz+kLpGHypEEwFWUMuQ7Fg2gUGoLxiEfE+Y3buQT344VA8AwNNPa+YFrF4/RDwaAaUhiQnr3UdsbwC4VTJYohnnU9wJYTCa7MZbK2dGTOygeQ2yAKstuTxYL8dfix5fPd47O3v+OYR452ABZVYmLYtk8evXmFwrHEgtA+mFdHo+3YT6W6fU8ToCL6XRvfQLnHGbXNT5d/umbx9mw9c3FdSfAwXz+DYEcWdOc2FUMY8O2iu04IQF0nt/qmNN5CeY7B4iLZmmKfoWRmgRQZfkXQS6FmG9yXjVtb+PKTQP0pr0ecBW4jkxzJgI4P3x6X2IL8FBvjpMT5xIWARyev/vSW9xjABBQe8qoKJxLTATQLijtAwJCHtvinNJGAVijXPOI30gAGONKBFDm+Ta3UKo4EUBellE3ZiGQIgAUvNx/uIP2piQG2L/89POmzKMuCcD9NjB7Gq2VEu9rVMBBAnjl0/pKm4OaMz94vGdC6hcV5zPmBOA+BVu0dmfeVn3zB63p1q/pxYfV1hwXbIykdQKEJodBSBH7/Xo8tEAzjwXg+xRUk5zTSCFYADCyqRBsgNQQyB8iLwAUSPEkJDm9ASyEpChyQMgB4TxUQQC2GIpDts9tMQfixlNx/wEAAP//nzOzdgAAAAZJREFUAwC4Kvsx/ej2YQAAAABJRU5ErkJggg==',
+            color1: "#e43100",
+            color2: "#cb2900",
+            color3: "#9e1800",
+            blocks: [
+                {
+                    opcode: "getUserData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: Scratch.translate("Fetch the [DATA] of user [USERNAME]"),
+                    arguments: {
+                        USERNAME: {
+                            type: Scratch.ArgumentType.STRING,
+                            defaultValue: "CodeTorch"
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "dataMenu", defaultValue: "username"
+                        }
+                    }
+                },
+                {
+                    opcode: "getProjectData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: Scratch.translate("Fetch the [DATA] of project [PROJECTID]"),
+                    arguments: {
+                        PROJECTID: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "projectDataMenu", defaultValue: "title"
+                        }
+                    }
+                },
+                {
+                    opcode: "getPostData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: Scratch.translate("Fetch the [DATA] of post [POSTID]"),
+                    arguments: {
+                        POSTID: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "postDataMenu", defaultValue: "author"
+                        }
+                    }
+                },
+                {
+                    opcode: "getCustomAchievementData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: Scratch.translate("Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]"),
+                    arguments: {
+                        ACHIEVEMENTID: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        PROJECTID: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "achievementDataMenu", defaultValue: "name"
+                        }
+                    }
+                },
+                {
+                    opcode: "getCollectionData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: Scratch.translate("Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]"),
+                    arguments: {
+                        COLLECTIONID: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        USERNAME: {
+                            type: Scratch.ArgumentType.STRING,
+                            defaultValue: "CodeTorch"
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "collectionDataMenu", defaultValue: "name"
+                        }
+                    }
+                },
+                {
+                    opcode: "getLeaderboardData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: Scratch.translate("Fetch the [DATA] for the leaderboard of users with the [RANK] rank"),
+                    arguments: {
+                        RANK: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "leaderboardDataMenu", defaultValue: "Username"
+                        }
+                    }
+                },
+                {
+                    opcode: "isUsernameAvailable",
+                    blockType: Scratch.BlockType.BOOLEAN,
+                    text: Scratch.translate("Is user [USERNAME] available?"),
+                    arguments: {
+                        USERNAME: {
+                            type: Scratch.ArgumentType.STRING,
+                            defaultValue: "CodeTorch"
+                        }
+                    }
+                }
+            ],
+            menus: {
+                dataMenu: {
+                    items: [
+                        { text: "Username", value: "username" },
+                        { text: "Display name", value: "display_name" },
+                        { text: "Icon URL", value: "pfp" },
+                        { text: "User ID", value: "id" },
+                        { text: "Following", value: "following_count" },
+                        { text: "Followers", value: "followers_count" },
+                        { text: "Verification Status", value: "verified" }
+                    ]
+                },
+                projectDataMenu: {
+                    items: [
+                        { text: "Title", value: "title" },
+                        { text: "Thumbnail", value: "thumbnail" },
+                        { text: "Project Type", value: "project_type" },
+                        { text: "Views", value: "views_count" },
+                        { text: "Loves", value: "loves_count" },
+                        { text: "Likes", value: "likes_count" },
+                        { text: "Comments Disabled", value: "comments_disabled" },
+                        { text: "Creator", value: "creator" }
+                    ]
+                },
+                postDataMenu: {
+                    items: [
+                        { text: "Author", value: "author" },
+                        { text: "Post Type", value: "post_type" },
+                        { text: "Content", value: "text_content" },
+                        { text: "Created at", value: "created_at" },
+                        { text: "Loves", value: "loves_count" },
+                        { text: "Reposts", value: "reposts_count" },
+                        { text: "Comments", value: "comments_count" },
+                        { text: "Votes", value: "votes_count" },
+                        { text: "Comments Disabled", value: "comments_disabled" }
+                    ]
+                },
+                achievementDataMenu: {
+                    items: [
+                        { text: "Name", value: "name" },
+                        { text: "Description", value: "description" },
+                        { text: "Icon", value: "icon_url" },
+                        { text: "Rarity", value: "rarity" },
+                        { text: "Is Secret", value: "is_secret" }
+                    ]
+                },
+                collectionDataMenu: {
+                    items: [
+                        { text: "Name", value: "name" },
+                        { text: "Thumbnail", value: "thumbnail" }
+                    ]
+                },
+                leaderboardDataMenu: {
+                    items: [
+                        { text: "Username", value: "Username" },
+                        { text: "Display Name", value: "DisplayName" },
+                        { text: "Icon URL", value: "PFP" },
+                        { text: "Followers", value: "Followers" }
+                    ]
+                }
+            }
+        };
+    }
+
+    async getUserData(args) {
+        try {
+            const username = encodeURIComponent(args.USERNAME);
+            const res = await fetch(`https://api.codetorch.net/v1/users/${username}`);
+            if (!res.ok) return "";
+            const data = await res.json();
+            return data[args.DATA] ?? "None";
+        } catch (e) {
+            return "Communication failure";
+        }
+    }
+
+    async getProjectData(args) {
+        try {
+            const projectId = encodeURIComponent(args.PROJECTID);
+            const res = await fetch(`https://api.codetorch.net/v1/projects/${projectId}`);
+            if (!res.ok) return "";
+            const data = await res.json();
+            if (args.DATA === "creator") return data.author?.username ?? "None";
+            return data[args.DATA] ?? "None";
+        } catch (e) {
+            return "Communication failure";
+        }
+    }
+
+    async getPostData(args) {
+        try {
+            const postId = encodeURIComponent(args.POSTID);
+            const res = await fetch(`https://api.codetorch.net/v1/posts/${postId}`);
+            if (!res.ok) return "";
+            const data = await res.json();
+            if (args.DATA === "author") return data.author?.username ?? "None";
+            return data[args.DATA] ?? "None";
+        } catch (e) {
+            return "Communication failure";
+        }
+    }
+
+    async getCustomAchievementData(args = {}) {
+    try {
+        const projectId = encodeURIComponent(args.PROJECTID ?? "");
+
+        const res = await fetch(
+            `https://api.codetorch.net/v1/projects/custom/${projectId}/achievements`
+        );
+
+        if (!res.ok) return "";
+
+        const data = await res.json();
+
+        if (args.ACHIEVEMENTID) {
+            const item = data.find(item => item.id === args.ACHIEVEMENTID);
+            return item?.[args.DATA] ?? "";
+        }
+
+        return JSON.stringify(data.map(item => item.id)) || "None";
+
+    } catch (e) {
+        return "Communication failure";
+    }
+    }
+
+    async getCollectionData(args = {}) {
+    try {
+        const username = encodeURIComponent(args.USERNAME ?? "");
+
+        const res = await fetch(
+            `https://api.codetorch.net/v1/collections/users/${username}`
+        );
+
+        if (!res.ok) return "";
+
+        const data = await res.json();
+
+        if (args.COLLECTIONID) {
+            const item = data.find(item => item.id === args.COLLECTIONID);
+            return item?.[args.DATA] ?? "";
+        }
+
+        return JSON.stringify(data.map(item => item.id)) || "None";
+
+    } catch (e) {
+        return "Communication failure";
+    }
+    }
+
+    async getLeaderboardData(args = {}) {
+    try {
+        const res = await fetch(
+            `https://api.codetorch.net/v1/leaderboard/users`
+        );
+
+        if (!res.ok) return "";
+
+        const data = await res.json();
+
+        if (args.RANK) {
+            const item = data.leaderboard[args.RANK-1];
+            return item?.[args.DATA] ?? "";
+        }
+
+        return JSON.stringify(data.map(item => item.Username)) || "None";
+
+    } catch (e) {
+        return "Communication failure";
+    }
+    }
+
+    async isUsernameAvailable(args = {}) {
+    try {
+        const username = encodeURIComponent(args.USERNAME ?? "");
+
+        const res = await fetch(
+            `https://api.codetorch.net/v1/users/check-username-availability?username=${username}`
+        );
+
+        if (!res.ok) return "";
+
+        const data = await res.json();
+
+        return data.is_available ?? "None";
+
+    } catch (e) {
+        return "Communication failure";
+    }
+    }
+    }
+
+Scratch.extensions.register(new TorchAPI());
+})(Scratch);
