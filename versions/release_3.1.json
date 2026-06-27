@@ -1,0 +1,195 @@
+Scratch.translate.setup({"ca":{"_Fetch the [DATA] of user [USERNAME]":"Obtenir [DATA] de l'usuari [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Obtenir [DATA] del projecte [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Obtenir [DATA] de la publicació [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Obté les [DATA] de l'assoliment personalitzat [ACHIEVEMENTID] del projecte [PROJECTID]"},"cs":{"_Fetch the [DATA] of user [USERNAME]":"Získat [DATA] uživatele [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Získat [DATA] projektu [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Získat [DATA] příspěvku [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Získat [DATA] vlastního achievementu [ACHIEVEMENTID] pro projekt [PROJECTID]"},"de":{"_Fetch the [DATA] of user [USERNAME]":"Hole die [DATA] des Benutzers [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Hole die [DATA] des Projekts [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Hole die [DATA] des Beitrags [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Rufe die [DATA] der benutzerdefinierten Errungenschaft [ACHIEVEMENTID] für das Projekt [PROJECTID] ab"},"es":{"_Fetch the [DATA] of user [USERNAME]":"Obtener [DATA] del usuario [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Obtener [DATA] del proyecto [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Obtener [DATA] de la publicación [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Obtener los [DATA] del logro personalizado [ACHIEVEMENTID] para el proyecto [PROJECTID]"},"fi":{"_Fetch the [DATA] of user [USERNAME]":"Hae käyttäjän [USERNAME] [DATA]","_Fetch the [DATA] of project [PROJECTID]":"Hae projektin [PROJECTID] [DATA]","_Fetch the [DATA] of post [POSTID]":"Hae postauksen [POSTID] [DATA]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Hae mukautetun saavutuksen [ACHIEVEMENTID] [DATA] projektista [PROJECTID]"},"fr":{"_Fetch the [DATA] of user [USERNAME]":"Récupérer le [DATA] de l'utilisateur [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Récupérer le [DATA] du projet [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Récupérer le [DATA] du post [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Récupérer les [DATA] du succès personnalisé [ACHIEVEMENTID] du projet [PROJECTID]"},"he":{"_Fetch the [DATA] of user [USERNAME]":"שלוף את [DATA] של המשתמש [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"שלוף את [DATA] של הפרויקט [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"שלוף את [DATA] של הפוסט [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"אחזר את ה-[DATA] של ההישג המותאם אישית [ACHIEVEMENTID] עבור הפרויקט [PROJECTID]"},"hu":{"_Fetch the [DATA] of user [USERNAME]":"Lekérni a [DATA]-t a [USERNAME] felhasználótól","_Fetch the [DATA] of project [PROJECTID]":"Lekérni a [DATA]-t a [PROJECTID] projekttől","_Fetch the [DATA] of post [POSTID]":"Lekérni a [DATA]-t a [POSTID] bejegyzéstől","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Lekérni a [DATA] értékeit a(z) [ACHIEVEMENTID] egyéni teljesítményhez a(z) [PROJECTID] projekthez"},"it":{"_Fetch the [DATA] of user [USERNAME]":"Recupera [DATA] dell'utente [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Recupera [DATA] del progetto [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Recupera [DATA] del post [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Recupera i [DATA] del traguardo personalizzato [ACHIEVEMENTID] per il progetto [PROJECTID]"},"ja":{"_Fetch the [DATA] of user [USERNAME]":"ユーザー [USERNAME] の [DATA] を取得","_Fetch the [DATA] of project [PROJECTID]":"プロジェクト [PROJECTID] の [DATA] を取得","_Fetch the [DATA] of post [POSTID]":"投稿 [POSTID] の [DATA] を取得","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"プロジェクト[PROJECTID]のカスタム実績[ACHIEVEMENTID]の[DATA]を取得する"},"ko":{"_Fetch the [DATA] of user [USERNAME]":"사용자 [USERNAME] 의 [DATA] 가져오기","_Fetch the [DATA] of project [PROJECTID]":"프로젝트 [PROJECTID] 의 [DATA] 가져오기","_Fetch the [DATA] of post [POSTID]":"게시물 [POSTID] 의 [DATA] 가져오기","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"프로젝트 [PROJECTID]의 사용자 지정 업적 [ACHIEVEMENTID]의 [DATA]를 가져옵니다"},"lt":{"_Fetch the [DATA] of user [USERNAME]":"Gauti [DATA] vartotojo [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Gauti [DATA] projekto [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Gauti [DATA] įrašo [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Gauti [DATA] iš pasirinktino pasiekimo [ACHIEVEMENTID] projektui [PROJECTID]"},"nb":{"_Fetch the [DATA] of user [USERNAME]":"Hent [DATA] til brukeren [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Hent [DATA] til prosjektet [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Hent [DATA] til innlegget [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Hent [DATA] for den egendefinerte prestasjonen [ACHIEVEMENTID] for prosjektet [PROJECTID]"},"nl":{"_Fetch the [DATA] of user [USERNAME]":"Haal [DATA] op van gebruiker [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Haal [DATA] op van project [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Haal [DATA] op van bericht [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Haal de [DATA] van de aangepaste prestatie [ACHIEVEMENTID] voor project [PROJECTID] op"},"pl":{"_Fetch the [DATA] of user [USERNAME]":"Pobierz [DATA] użytkownika [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Pobierz [DATA] projektu [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Pobierz [DATA] posta [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Pobierz [DATA] niestandardowego osiągnięcia [ACHIEVEMENTID] dla projektu [PROJECTID]"},"pt":{"_Fetch the [DATA] of user [USERNAME]":"Obter [DATA] do utilizador [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Obter [DATA] do projeto [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Obter [DATA] da publicação [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Obter os [DATA] da conquista personalizada [ACHIEVEMENTID] do projeto [PROJECTID]"},"pt-br":{"_Fetch the [DATA] of user [USERNAME]":"Obter [DATA] do usuário [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Obter [DATA] do projeto [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Obter [DATA] da postagem [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Obter os [DATA] da conquista personalizada [ACHIEVEMENTID] do projeto [PROJECTID]"},"ru":{"_Fetch the [DATA] of user [USERNAME]":"Получить [DATA] пользователя [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Получить [DATA] проекта [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Получить [DATA] поста [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Получить [DATA] пользовательского достижения [ACHIEVEMENTID] для проекта [PROJECTID]"},"sl":{"_Fetch the [DATA] of user [USERNAME]":"Pridobi [DATA] uporabnika [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Pridobi [DATA] projekta [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Pridobi [DATA] objave [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Pridobi [DATA] prilagojenega dosežka [ACHIEVEMENTID] za projekt [PROJECTID]"},"sv":{"_Fetch the [DATA] of user [USERNAME]":"Hämta [DATA] för användare [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Hämta [DATA] för projekt [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Hämta [DATA] för inlägg [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Hämta [DATA] för den anpassade prestationen [ACHIEVEMENTID] för projektet [PROJECTID]"},"tr":{"_Fetch the [DATA] of user [USERNAME]":"[USERNAME] kullanıcısının [DATA]'sını al","_Fetch the [DATA] of project [PROJECTID]":"[PROJECTID] projesinin [DATA]'sını al","_Fetch the [DATA] of post [POSTID]":"[POSTID] gönderisinin [DATA]'sını al","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Proje [PROJECTID] için özel başarı [ACHIEVEMENTID] için [DATA] değerini al"},"uk":{"_Fetch the [DATA] of user [USERNAME]":"Отримати [DATA] користувача [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Отримати [DATA] проєкту [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Отримати [DATA] допису [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Отримати [DATA] користувацького досягнення [ACHIEVEMENTID] для проєкту [PROJECTID]"},"zh-cn":{"_Fetch the [DATA] of user [USERNAME]":"获取用户 [USERNAME] 的 [DATA]","_Fetch the [DATA] of project [PROJECTID]":"获取项目 [PROJECTID] 的 [DATA]","_Fetch the [DATA] of post [POSTID]":"获取帖子 [POSTID] 的 [DATA]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"获取项目 [PROJECTID] 的自定义成就 [ACHIEVEMENTID] 的 [DATA]"},"zh-tw":{"_Fetch the [DATA] of user [USERNAME]":"取得使用者 [USERNAME] 的 [DATA]","_Fetch the [DATA] of project [PROJECTID]":"取得專案 [PROJECTID] 的 [DATA]","_Fetch the [DATA] of post [POSTID]":"取得貼文 [POSTID] 的 [DATA]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"取得專案 [PROJECTID] 的自訂成就 [ACHIEVEMENTID] 的 [DATA]"}});
+(function (Scratch) {
+    "use strict";
+
+    class TorchAPI {
+    getInfo() {
+        return {
+            id: "torchapi",
+            name: "Torch API",
+            menuIconURI: 'data:image/png;base64,UklGRlwEAABXRUJQVlA4WAoAAAAQAAAALwAALwAAQUxQSBcCAAABoGvbtmnbGte2bdu27Rud8NqRbdu27fts27ZtHPTegzWX5hdExARY8oUf62t+bwYulPGpyf8Evhnj0Wo4z5X2psT3IAB81tEXWwj3/+N8qQs6kJXhif2I0MxennwYhh9q+PF7BNzzojEYAeN92IDIH+ROr8bf0TA6tUIvMsaDaZV6nAQDma7MMun0+gyhWRNcyEghd6+bAAEGztgnrq2JtTjwPUmCBIA/q9se12MJNX6IJAESIIDpZpNdnySSe+n/EoMAAeC0mQ10/ZJEoUuMCBC4ld/MursyE8j3ICUHCBLYX8DMbKTrxwQOiBFBfD7GnFNd78YbQ1FUAD89f2B0PnOfdD0Uq9jXokhSmfvaWNTcX7rWxZonSiL5XmOLPgzukXHyfCaKFF8vZdFzPeb6t3Sc3qIo8dfqFjMD7osWd6UkkZprcfs94xoa6zGJFDNLxjLr9RCAl3PH+kRBPmKJdriW09di/yGK5OFkzOpa/GyJknYkleTvkihe8+ctSqR+yu/NOUmUOMabyZJE8sOCvlTKESlR+32xq5JEkqtzedI4h6JI8WzpkGK76qRhR0RRpPjDglpmuRvP+YJfNkijzMeiGPrXn0TwmyYpWIPfSSkAkgAB4Oe2KVjfPxgOgnD+1DoFa/yRAnCEft81DSt9IEskCRAEAVyuZCk3upxFgkQw82on87DihNOv/pzz2/vPbBtVxpIEAFZQOCAeAgAAsA8AnQEqMAAwAD4xEodCoiEMdmd+EAGCWwAxQrLvjeLfkZ+M3yCUx+a/Zn8ksuz5c+YDeOPMA9QHmA/aD0ZuoA/qX+q6wD0AP2O9T//Ofsz8DP7n/tv8AH6+PqpRHr6c+SspADXNUnfvGiy4LByDPXP1ZajTt61Bb17GNT2uGN+uSQX5L8AA/vw12kyQv4nuahIfePayZXis3VhsxF8MtoaSAyJRWAfRroWxRoXi+C1XyWxdvp/2cMXeHIsP7NdjsayZsBtt1AtBraitXgDivWFhoSc2DV3YLZK/7nXptRA0sfmnfoypmvdigHtBVYFi3GMI4c95zFoclxisGMUt0+mjzU6X8velBgnfw1GQe8u7w4/ofbQll3nNT3PW1ERRi5+B9obg87YhMigoMOnwdmBdpXntEWiuL/MrMAT8b71UqbCfDZviSdm+dxVhRNgg9/WR7SSztIymNHxhSj44Edf1yuww3y5WPh1MemPjEttpMbdDjxwYZX1mfeekDQxsePPjsnZ4ipRyKJgI07WVUKq+1vlvYvj+1dhVOTvt86Vd2OFusGZloTG90eBN3DorPPd/3aauNjAF2zK546Hz/vKHI5ZfLuBP6/I1u/kLkdt161Hf6NGFcMyWZ1zEFKyWIW9rPDlYZEJiHkZTXdSm8jd/4XZegHxHEg5vxZv/+UB//KfP/+UDkjJaSgsQe65g75PPRa5XYygVyYHUAAA=',
+            blockIconURI: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACyElEQVR4AcyYv24TQRDG10GEBCkS9BQ0iILy3FhuQkGDRKQUl1dIxyv48gx0eYRLk9DQIIXCcnVuEQUSBS8ASID4l2W/061jne5mZ3d2Lz75897ezs58v7u1vfKWGuCoXmR3dXPELjcIQPa6+m6NNxza9qVtcgAY7jLZd70rlrqWHIAqDgiIinGNJQd4ezy+5zIhgUgO8Ox0+dUFgPFQiOQAMMdVCMQgACNzpIIYBIBr3sb5PImNBLAgnHYQAJ87ak1z5wwCYE35troonP6cAb5F2/HcO9meV/dns391S7wlBVjkD3aJ2lGGkgHgzk/Kzz+kLpGHypEEwFWUMuQ7Fg2gUGoLxiEfE+Y3buQT344VA8AwNNPa+YFrF4/RDwaAaUhiQnr3UdsbwC4VTJYohnnU9wJYTCa7MZbK2dGTOygeQ2yAKstuTxYL8dfix5fPd47O3v+OYR452ABZVYmLYtk8evXmFwrHEgtA+mFdHo+3YT6W6fU8ToCL6XRvfQLnHGbXNT5d/umbx9mw9c3FdSfAwXz+DYEcWdOc2FUMY8O2iu04IQF0nt/qmNN5CeY7B4iLZmmKfoWRmgRQZfkXQS6FmG9yXjVtb+PKTQP0pr0ecBW4jkxzJgI4P3x6X2IL8FBvjpMT5xIWARyev/vSW9xjABBQe8qoKJxLTATQLijtAwJCHtvinNJGAVijXPOI30gAGONKBFDm+Ta3UKo4EUBellE3ZiGQIgAUvNx/uIP2piQG2L/89POmzKMuCcD9NjB7Gq2VEu9rVMBBAnjl0/pKm4OaMz94vGdC6hcV5zPmBOA+BVu0dmfeVn3zB63p1q/pxYfV1hwXbIykdQKEJodBSBH7/Xo8tEAzjwXg+xRUk5zTSCFYADCyqRBsgNQQyB8iLwAUSPEkJDm9ASyEpChyQMgB4TxUQQC2GIpDts9tMQfixlNx/wEAAP//nzOzdgAAAAZJREFUAwC4Kvsx/ej2YQAAAABJRU5ErkJggg==',
+            color1: "#e43100",
+            color2: "#cb2900",
+            color3: "#9e1800",
+            blocks: [
+                {
+                    opcode: "getUserData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: Scratch.translate("Fetch the [DATA] of user [USERNAME]"),
+                    arguments: {
+                        USERNAME: {
+                            type: Scratch.ArgumentType.STRING,
+                            defaultValue: "CodeTorch"
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "dataMenu", defaultValue: "username"
+                        }
+                    }
+                },
+                {
+                    opcode: "getProjectData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: Scratch.translate("Fetch the [DATA] of project [PROJECTID]"),
+                    arguments: {
+                        PROJECTID: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "projectDataMenu", defaultValue: "title"
+                        }
+                    }
+                },
+                {
+                    opcode: "getPostData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: Scratch.translate("Fetch the [DATA] of post [POSTID]"),
+                    arguments: {
+                        POSTID: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "postDataMenu", defaultValue: "author"
+                        }
+                    }
+                },
+                {
+                    opcode: "getCustomAchievementData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: Scratch.translate("Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]"),
+                    arguments: {
+                        ACHIEVEMENTID: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        PROJECTID: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "achievementDataMenu", defaultValue: "name"
+                        }
+                    }
+                }
+            ],
+            menus: {
+                dataMenu: {
+                    items: [
+                        { text: "Username", value: "username" },
+                        { text: "Display name", value: "display_name" },
+                        { text: "Icon URL", value: "pfp" },
+                        { text: "User ID", value: "id" },
+                        { text: "Following", value: "following_count" },
+                        { text: "Followers", value: "followers_count" },
+                        { text: "Verification Status", value: "verified" }
+                    ]
+                },
+                projectDataMenu: {
+                    items: [
+                        { text: "Title", value: "title" },
+                        { text: "Thumbnail", value: "thumbnail" },
+                        { text: "Project Type", value: "project_type" },
+                        { text: "Views", value: "views_count" },
+                        { text: "Loves", value: "loves_count" },
+                        { text: "Likes", value: "likes_count" },
+                        { text: "Comments Disabled", value: "comments_disabled" },
+                        { text: "Creator", value: "creator" }
+                    ]
+                },
+                postDataMenu: {
+                    items: [
+                        { text: "Author", value: "author" },
+                        { text: "Post Type", value: "post_type" },
+                        { text: "Content", value: "text_content" },
+                        { text: "Created at", value: "created_at" },
+                        { text: "Loves", value: "loves_count" },
+                        { text: "Reposts", value: "reposts_count" },
+                        { text: "Comments", value: "comments_count" },
+                        { text: "Votes", value: "votes_count" },
+                        { text: "Comments Disabled", value: "comments_disabled" }
+                    ]
+                },
+                achievementDataMenu: {
+                    items: [
+                        { text: "Name", value: "name" },
+                        { text: "Description", value: "description" },
+                        { text: "Icon", value: "icon_url" },
+                        { text: "Rarity", value: "rarity" },
+                        { text: "Is Secret", value: "is_secret" }
+                    ]
+                }
+            }
+        };
+    }
+
+    async getUserData(args) {
+        try {
+            const username = encodeURIComponent(args.USERNAME);
+            const res = await fetch(`https://api.codetorch.net/v1/users/${username}`);
+            if (!res.ok) return "";
+            const data = await res.json();
+            return data[args.DATA] ?? "None";
+        } catch (e) {
+            return "Communication failure";
+        }
+    }
+
+    async getProjectData(args) {
+        try {
+            const projectId = encodeURIComponent(args.PROJECTID);
+            const res = await fetch(`https://api.codetorch.net/v1/projects/${projectId}`);
+            if (!res.ok) return "";
+            const data = await res.json();
+            if (args.DATA === "creator") return data.author?.username ?? "None";
+            return data[args.DATA] ?? "None";
+        } catch (e) {
+            return "Communication failure";
+        }
+    }
+
+    async getPostData(args) {
+        try {
+            const postId = encodeURIComponent(args.POSTID);
+            const res = await fetch(`https://api.codetorch.net/v1/posts/${postId}`);
+            if (!res.ok) return "";
+            const data = await res.json();
+            if (args.DATA === "author") return data.author?.username ?? "None";
+            return data[args.DATA] ?? "None";
+        } catch (e) {
+            return "Communication failure";
+        }
+    }
+
+    async getCustomAchievementData(args = {}) {
+    try {
+        const projectId = encodeURIComponent(args.PROJECTID ?? "");
+
+        const res = await fetch(
+            `https://api.codetorch.net/v1/projects/custom/${projectId}/achievements`
+        );
+
+        if (!res.ok) return "";
+
+        const data = await res.json();
+
+        if (args.ACHIEVEMENTID) {
+            const item = data.find(item => item.id === args.ACHIEVEMENTID);
+            return item?.[args.DATA] ?? "";
+        }
+
+        return JSON.stringify(data.map(item => item.id)) || "None";
+
+    } catch (e) {
+        return "Communication failure";
+    }
+    }
+    }
+
+Scratch.extensions.register(new TorchAPI());
+})(Scratch);
