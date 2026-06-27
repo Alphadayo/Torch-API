@@ -1,0 +1,352 @@
+// Created by @Alpha on CodeTorch
+
+Scratch.translate.setup({"ca":{"_Fetch the [DATA] of user [USERNAME]":"Obtenir [DATA] de l'usuari [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Obtenir [DATA] del projecte [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Obtenir [DATA] de la publicaciÃ³ [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"ObtÃ© les [DATA] de l'assoliment personalitzat [ACHIEVEMENTID] del projecte [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Recupera el [DATA] de la colÂ·lecciÃ³ [COLLECTIONID] per a l'usuari [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Recupera el [DATA] per a la classificaciÃ³ d'usuaris amb el rang [RANK]","_Is user [USERNAME] available?":"L'usuari [USERNAME] estÃ  disponible?"},"cs":{"_Fetch the [DATA] of user [USERNAME]":"ZÃ­skat [DATA] uÅ¾ivatele [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"ZÃ­skat [DATA] projektu [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"ZÃ­skat [DATA] pÅÃ­spÄvku [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"ZÃ­skat [DATA] vlastnÃ­ho achievementu [ACHIEVEMENTID] pro projekt [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"NaÄtÄte [DATA] kolekce [COLLECTIONID] pro uÅ¾ivatele [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"NaÄtÄte [DATA] pro Å¾ebÅÃ­Äek uÅ¾ivatelÅ¯ s hodnostÃ­ [RANK]","_Is user [USERNAME] available?":"Je uÅ¾ivatel [USERNAME] dostupnÃ½?"},"de":{"_Fetch the [DATA] of user [USERNAME]":"Hole die [DATA] des Benutzers [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Hole die [DATA] des Projekts [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Hole die [DATA] des Beitrags [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Rufe die [DATA] der benutzerdefinierten Errungenschaft [ACHIEVEMENTID] fÃ¼r das Projekt [PROJECTID] ab","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Rufe die [DATA] der Sammlung [COLLECTIONID] fÃ¼r den Benutzer [USERNAME] ab","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Rufe die [DATA] fÃ¼r die Rangliste der Benutzer mit dem Rang [RANK] ab","_Is user [USERNAME] available?":"Ist der Benutzer [USERNAME] verfÃ¼gbar?"},"es":{"_Fetch the [DATA] of user [USERNAME]":"Obtener [DATA] del usuario [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Obtener [DATA] del proyecto [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Obtener [DATA] de la publicaciÃ³n [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Obtener los [DATA] del logro personalizado [ACHIEVEMENTID] para el proyecto [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"ObtÃ©n el [DATA] de la colecciÃ³n [COLLECTIONID] para el usuario [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"ObtÃ©n el [DATA] para la clasificaciÃ³n de usuarios con el rango [RANK]","_Is user [USERNAME] available?":"Â¿EstÃ¡ disponible el usuario [USERNAME]?"},"fi":{"_Fetch the [DATA] of user [USERNAME]":"Hae kÃ¤yttÃ¤jÃ¤n [USERNAME] [DATA]","_Fetch the [DATA] of project [PROJECTID]":"Hae projektin [PROJECTID] [DATA]","_Fetch the [DATA] of post [POSTID]":"Hae postauksen [POSTID] [DATA]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Hae mukautetun saavutuksen [ACHIEVEMENTID] [DATA] projektista [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Hae kokoelman [COLLECTIONID] [DATA] kÃ¤yttÃ¤jÃ¤lle [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Hae [DATA] kÃ¤yttÃ¤jien tulostaulukolle, joilla on sijoitus [RANK]","_Is user [USERNAME] available?":"Onko kÃ¤yttÃ¤jÃ¤ [USERNAME] saatavilla?"},"fr":{"_Fetch the [DATA] of user [USERNAME]":"RÃ©cupÃ©rer le [DATA] de l'utilisateur [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"RÃ©cupÃ©rer le [DATA] du projet [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"RÃ©cupÃ©rer le [DATA] du post [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"RÃ©cupÃ©rer les [DATA] du succÃ¨s personnalisÃ© [ACHIEVEMENTID] du projet [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"RÃ©cupÃ©rer le [DATA] de la collection [COLLECTIONID] pour l'utilisateur [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"RÃ©cupÃ©rer le [DATA] pour le classement des utilisateurs ayant le rang [RANK]","_Is user [USERNAME] available?":"L'utilisateur [USERNAME] est-il disponible ?"},"he":{"_Fetch the [DATA] of user [USERNAME]":"×©×××£ ××ª [DATA] ×©× ×××©×ª××© [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"×©×××£ ××ª [DATA] ×©× ××¤×¨×××§× [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"×©×××£ ××ª [DATA] ×©× ××¤××¡× [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"××××¨ ××ª ×-[DATA] ×©× ××××©× ××××ª×× ×××©××ª [ACHIEVEMENTID] ×¢×××¨ ××¤×¨×××§× [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"××××¨ ××ª ×-[DATA] ×©× ××××¡×£ [COLLECTIONID] ×¢×××¨ ×××©×ª××© [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"××××¨ ××ª ×-[DATA] ×¢×××¨ ××××ª ××××¨×× ×©× ××©×ª××©×× ×¢× ××××¨×× [RANK]","_Is user [USERNAME] available?":"××× ×××©×ª××© [USERNAME] ××××?"},"hu":{"_Fetch the [DATA] of user [USERNAME]":"LekÃ©rni a [DATA]-t a [USERNAME] felhasznÃ¡lÃ³tÃ³l","_Fetch the [DATA] of project [PROJECTID]":"LekÃ©rni a [DATA]-t a [PROJECTID] projekttÅl","_Fetch the [DATA] of post [POSTID]":"LekÃ©rni a [DATA]-t a [POSTID] bejegyzÃ©stÅl","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"LekÃ©rni a [DATA] Ã©rtÃ©keit a(z) [ACHIEVEMENTID] egyÃ©ni teljesÃ­tmÃ©nyhez a(z) [PROJECTID] projekthez","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"A [COLLECTIONID] gyÅ±jtemÃ©ny [DATA] adatainak lekÃ©rÃ©se a(z) [USERNAME] felhasznÃ¡lÃ³hoz","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"A [DATA] lekÃ©rÃ©se a(z) [RANK] rangÃº felhasznÃ¡lÃ³k ranglistÃ¡jÃ¡hoz","_Is user [USERNAME] available?":"ElÃ©rhetÅ a(z) [USERNAME] felhasznÃ¡lÃ³?"},"it":{"_Fetch the [DATA] of user [USERNAME]":"Recupera [DATA] dell'utente [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Recupera [DATA] del progetto [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Recupera [DATA] del post [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Recupera i [DATA] del traguardo personalizzato [ACHIEVEMENTID] per il progetto [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Recupera il [DATA] della collezione [COLLECTIONID] per l'utente [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Recupera il [DATA] per la classifica degli utenti con il rango [RANK]","_Is user [USERNAME] available?":"L'utente [USERNAME] Ã¨ disponibile?"},"ja":{"_Fetch the [DATA] of user [USERNAME]":"ã¦ã¼ã¶ã¼ [USERNAME] ã® [DATA] ãåå¾","_Fetch the [DATA] of project [PROJECTID]":"ãã­ã¸ã§ã¯ã [PROJECTID] ã® [DATA] ãåå¾","_Fetch the [DATA] of post [POSTID]":"æç¨¿ [POSTID] ã® [DATA] ãåå¾","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"ãã­ã¸ã§ã¯ã[PROJECTID]ã®ã«ã¹ã¿ã å®ç¸¾[ACHIEVEMENTID]ã®[DATA]ãåå¾ãã","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"ã¦ã¼ã¶ã¼[USERNAME]ã®ã³ã¬ã¯ã·ã§ã³[COLLECTIONID]ã®[DATA]ãåå¾ãã","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"ã©ã³ã¯[RANK]ã®ã¦ã¼ã¶ã¼ã®ãªã¼ãã¼ãã¼ãã®[DATA]ãåå¾ãã","_Is user [USERNAME] available?":"ã¦ã¼ã¶ã¼[USERNAME]ã¯å©ç¨å¯è½ã§ããï¼"},"ko":{"_Fetch the [DATA] of user [USERNAME]":"ì¬ì©ì [USERNAME] ì [DATA] ê°ì ¸ì¤ê¸°","_Fetch the [DATA] of project [PROJECTID]":"íë¡ì í¸ [PROJECTID] ì [DATA] ê°ì ¸ì¤ê¸°","_Fetch the [DATA] of post [POSTID]":"ê²ìë¬¼ [POSTID] ì [DATA] ê°ì ¸ì¤ê¸°","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"íë¡ì í¸ [PROJECTID]ì ì¬ì©ì ì§ì  ìì  [ACHIEVEMENTID]ì [DATA]ë¥¼ ê°ì ¸ìµëë¤","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"ì¬ì©ì [USERNAME]ì ì»¬ë ì [COLLECTIONID]ì [DATA]ë¥¼ ê°ì ¸ì¤ê¸°","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"ë­í¬ [RANK]ë¥¼ ê°ì§ ì¬ì©ì ë¦¬ëë³´ëì [DATA]ë¥¼ ê°ì ¸ì¤ê¸°","_Is user [USERNAME] available?":"ì¬ì©ì [USERNAME]ì(ë¥¼) ì¬ì©í  ì ìëì?"},"lt":{"_Fetch the [DATA] of user [USERNAME]":"Gauti [DATA] vartotojo [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Gauti [DATA] projekto [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Gauti [DATA] Ä¯raÅ¡o [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Gauti [DATA] iÅ¡ pasirinktino pasiekimo [ACHIEVEMENTID] projektui [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Gauti [DATA] iÅ¡ kolekcijos [COLLECTIONID] naudotojui [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Gauti [DATA] naudotojÅ³ su rangu [RANK] lyderiÅ³ lentelei","_Is user [USERNAME] available?":"Ar naudotojas [USERNAME] yra prieinamas?"},"nb":{"_Fetch the [DATA] of user [USERNAME]":"Hent [DATA] til brukeren [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Hent [DATA] til prosjektet [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Hent [DATA] til innlegget [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Hent [DATA] for den egendefinerte prestasjonen [ACHIEVEMENTID] for prosjektet [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Hent [DATA] for samlingen [COLLECTIONID] for brukeren [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Hent [DATA] for topplisten over brukere med rang [RANK]","_Is user [USERNAME] available?":"Er brukeren [USERNAME] tilgjengelig?"},"nl":{"_Fetch the [DATA] of user [USERNAME]":"Haal [DATA] op van gebruiker [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Haal [DATA] op van project [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Haal [DATA] op van bericht [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Haal de [DATA] van de aangepaste prestatie [ACHIEVEMENTID] voor project [PROJECTID] op","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Haal de [DATA] op van collectie [COLLECTIONID] voor gebruiker [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Haal de [DATA] op voor het klassement van gebruikers met rang [RANK]","_Is user [USERNAME] available?":"Is gebruiker [USERNAME] beschikbaar?"},"pl":{"_Fetch the [DATA] of user [USERNAME]":"Pobierz [DATA] uÅ¼ytkownika [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Pobierz [DATA] projektu [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Pobierz [DATA] posta [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Pobierz [DATA] niestandardowego osiÄgniÄcia [ACHIEVEMENTID] dla projektu [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Pobierz [DATA] kolekcji [COLLECTIONID] dla uÅ¼ytkownika [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Pobierz [DATA] dla rankingu uÅ¼ytkownikÃ³w z rangÄ [RANK]","_Is user [USERNAME] available?":"Czy uÅ¼ytkownik [USERNAME] jest dostÄpny?"},"pt":{"_Fetch the [DATA] of user [USERNAME]":"Obter [DATA] do utilizador [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Obter [DATA] do projeto [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Obter [DATA] da publicaÃ§Ã£o [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Obter os [DATA] da conquista personalizada [ACHIEVEMENTID] do projeto [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Obter o [DATA] da coleÃ§Ã£o [COLLECTIONID] para o utilizador [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Obter o [DATA] para a classificaÃ§Ã£o de utilizadores com o nÃ­vel [RANK]","_Is user [USERNAME] available?":"O utilizador [USERNAME] estÃ¡ disponÃ­vel?"},"pt-br":{"_Fetch the [DATA] of user [USERNAME]":"Obter [DATA] do usuÃ¡rio [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Obter [DATA] do projeto [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Obter [DATA] da postagem [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Obter os [DATA] da conquista personalizada [ACHIEVEMENTID] do projeto [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Obter o [DATA] da coleÃ§Ã£o [COLLECTIONID] para o usuÃ¡rio [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Obter o [DATA] para o ranking de usuÃ¡rios com o nÃ­vel [RANK]","_Is user [USERNAME] available?":"O usuÃ¡rio [USERNAME] estÃ¡ disponÃ­vel?"},"ru":{"_Fetch the [DATA] of user [USERNAME]":"ÐÐ¾Ð»ÑÑÐ¸ÑÑ [DATA] Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"ÐÐ¾Ð»ÑÑÐ¸ÑÑ [DATA] Ð¿ÑÐ¾ÐµÐºÑÐ° [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"ÐÐ¾Ð»ÑÑÐ¸ÑÑ [DATA] Ð¿Ð¾ÑÑÐ° [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"ÐÐ¾Ð»ÑÑÐ¸ÑÑ [DATA] Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÑÑÐºÐ¾Ð³Ð¾ Ð´Ð¾ÑÑÐ¸Ð¶ÐµÐ½Ð¸Ñ [ACHIEVEMENTID] Ð´Ð»Ñ Ð¿ÑÐ¾ÐµÐºÑÐ° [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"ÐÐ¾Ð»ÑÑÐ¸ÑÑ [DATA] ÐºÐ¾Ð»Ð»ÐµÐºÑÐ¸Ð¸ [COLLECTIONID] Ð´Ð»Ñ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"ÐÐ¾Ð»ÑÑÐ¸ÑÑ [DATA] Ð´Ð»Ñ ÑÐ°Ð±Ð»Ð¸ÑÑ Ð»Ð¸Ð´ÐµÑÐ¾Ð² Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÐµÐ¹ Ñ ÑÐ°Ð½Ð³Ð¾Ð¼ [RANK]","_Is user [USERNAME] available?":"ÐÐ¾ÑÑÑÐ¿ÐµÐ½ Ð»Ð¸ Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»Ñ [USERNAME]?"},"sl":{"_Fetch the [DATA] of user [USERNAME]":"Pridobi [DATA] uporabnika [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"Pridobi [DATA] projekta [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"Pridobi [DATA] objave [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Pridobi [DATA] prilagojenega doseÅ¾ka [ACHIEVEMENTID] za projekt [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"Pridobi [DATA] zbirke [COLLECTIONID] za uporabnika [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"Pridobi [DATA] za lestvico uporabnikov z rangom [RANK]","_Is user [USERNAME] available?":"Ali je uporabnik [USERNAME] na voljo?"},"sv":{"_Fetch the [DATA] of user [USERNAME]":"HÃ¤mta [DATA] fÃ¶r anvÃ¤ndare [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"HÃ¤mta [DATA] fÃ¶r projekt [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"HÃ¤mta [DATA] fÃ¶r inlÃ¤gg [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"HÃ¤mta [DATA] fÃ¶r den anpassade prestationen [ACHIEVEMENTID] fÃ¶r projektet [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"HÃ¤mta [DATA] fÃ¶r samlingen [COLLECTIONID] fÃ¶r anvÃ¤ndaren [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"HÃ¤mta [DATA] fÃ¶r topplistan Ã¶ver anvÃ¤ndare med rank [RANK]","_Is user [USERNAME] available?":"Ãr anvÃ¤ndaren [USERNAME] tillgÃ¤nglig?"},"tr":{"_Fetch the [DATA] of user [USERNAME]":"[USERNAME] kullanÄ±cÄ±sÄ±nÄ±n [DATA]'sÄ±nÄ± al","_Fetch the [DATA] of project [PROJECTID]":"[PROJECTID] projesinin [DATA]'sÄ±nÄ± al","_Fetch the [DATA] of post [POSTID]":"[POSTID] gÃ¶nderisinin [DATA]'sÄ±nÄ± al","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"Proje [PROJECTID] iÃ§in Ã¶zel baÅarÄ± [ACHIEVEMENTID] iÃ§in [DATA] deÄerini al","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"KullanÄ±cÄ± [USERNAME] iÃ§in [COLLECTIONID] koleksiyonunun [DATA] verisini getir","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"[RANK] sÄ±ralamasÄ±na sahip kullanÄ±cÄ±larÄ±n liderlik tablosu iÃ§in [DATA] verisini getir","_Is user [USERNAME] available?":"[USERNAME] kullanÄ±cÄ±sÄ± uygun mu?"},"uk":{"_Fetch the [DATA] of user [USERNAME]":"ÐÑÑÐ¸Ð¼Ð°ÑÐ¸ [DATA] ÐºÐ¾ÑÐ¸ÑÑÑÐ²Ð°ÑÐ° [USERNAME]","_Fetch the [DATA] of project [PROJECTID]":"ÐÑÑÐ¸Ð¼Ð°ÑÐ¸ [DATA] Ð¿ÑÐ¾ÑÐºÑÑ [PROJECTID]","_Fetch the [DATA] of post [POSTID]":"ÐÑÑÐ¸Ð¼Ð°ÑÐ¸ [DATA] Ð´Ð¾Ð¿Ð¸ÑÑ [POSTID]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"ÐÑÑÐ¸Ð¼Ð°ÑÐ¸ [DATA] ÐºÐ¾ÑÐ¸ÑÑÑÐ²Ð°ÑÑÐºÐ¾Ð³Ð¾ Ð´Ð¾ÑÑÐ³Ð½ÐµÐ½Ð½Ñ [ACHIEVEMENTID] Ð´Ð»Ñ Ð¿ÑÐ¾ÑÐºÑÑ [PROJECTID]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"ÐÑÑÐ¸Ð¼Ð°ÑÐ¸ [DATA] ÐºÐ¾Ð»ÐµÐºÑÑÑ [COLLECTIONID] Ð´Ð»Ñ ÐºÐ¾ÑÐ¸ÑÑÑÐ²Ð°ÑÐ° [USERNAME]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"ÐÑÑÐ¸Ð¼Ð°ÑÐ¸ [DATA] Ð´Ð»Ñ ÑÐ°Ð±Ð»Ð¸ÑÑ Ð»ÑÐ´ÐµÑÑÐ² ÐºÐ¾ÑÐ¸ÑÑÑÐ²Ð°ÑÑÐ² ÑÐ· ÑÐ°Ð½Ð³Ð¾Ð¼ [RANK]","_Is user [USERNAME] available?":"Ð§Ð¸ Ð´Ð¾ÑÑÑÐ¿Ð½Ð¸Ð¹ ÐºÐ¾ÑÐ¸ÑÑÑÐ²Ð°Ñ [USERNAME]?"},"zh-cn":{"_Fetch the [DATA] of user [USERNAME]":"è·åç¨æ· [USERNAME] ç [DATA]","_Fetch the [DATA] of project [PROJECTID]":"è·åé¡¹ç® [PROJECTID] ç [DATA]","_Fetch the [DATA] of post [POSTID]":"è·åå¸å­ [POSTID] ç [DATA]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"è·åé¡¹ç® [PROJECTID] çèªå®ä¹æå°± [ACHIEVEMENTID] ç [DATA]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"è·åç¨æ·[USERNAME]çéå[COLLECTIONID]ç[DATA]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"è·åæåä¸º[RANK]çç¨æ·æè¡æ¦ç[DATA]","_Is user [USERNAME] available?":"ç¨æ·[USERNAME]æ¯å¦å¯ç¨ï¼"},"zh-tw":{"_Fetch the [DATA] of user [USERNAME]":"åå¾ä½¿ç¨è [USERNAME] ç [DATA]","_Fetch the [DATA] of project [PROJECTID]":"åå¾å°æ¡ [PROJECTID] ç [DATA]","_Fetch the [DATA] of post [POSTID]":"åå¾è²¼æ [POSTID] ç [DATA]","_Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]":"åå¾å°æ¡ [PROJECTID] çèªè¨æå°± [ACHIEVEMENTID] ç [DATA]","_Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]":"åå¾ä½¿ç¨è[USERNAME]çéå[COLLECTIONID]ç[DATA]","_Fetch the [DATA] for the leaderboard of users with the [RANK] rank":"åå¾æåçº[RANK]çä½¿ç¨èæè¡æ¦ç[DATA]","_Is user [USERNAME] available?":"ä½¿ç¨è[USERNAME]æ¯å¦å¯ç¨ï¼"}});
+(function (Scratch) {
+    "use strict";
+
+const userIcon = 'data:image/png;base64,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'
+const projectIcon = 'data:image/png;base64,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'
+const postIcon = 'data:image/png;base64,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'
+const achievementIcon = 'data:image/png;base64,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'
+const collectionIcon = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAADMUlEQVR4Aeyd71EUQRBHb83ADDADzEBDMAIxAssI1AzMQMxAMzADzEBCMIOzR44roNiZ3vZ65zfLu5oGjt3u6XmP5s+X49mOhxQBhEjp2O0QghAxAmLtMCEIESMg1g4TghAxAmLtMCEIESMg1k7OhIgdcqR2ECJmCyEIESMg1g4TghAxAmLthCdkv9+f9QgxfidvZ5EQE3Bh8W9ZJ797hG1+ZftudrmFHEB8FSBxfuhFoJXTt+ASYgA+2dbnFiprs1JcQszCR4ve6+H+m5TSFGLTcfGQhNDzzUlpCjH4by2U16akeISczdi4nFZ62P7PLWqrSLFhlluLfyP0CKmBWOWaef9jG7Wk2C1y6/YLxf0L0RBCCuaBpZT2r2x2577TlOvHGEZI6XhwKeUP6XKMagwlpJxkZCk2Ja/KGWoxnJBymIGlvC/912JIIeVARYqF5LL+Li0eW80f7sMKeey0oc+JJSEEIWIExNphQhAiRkCsHSYEIWIExNphQhAiRkCsHSYEIWIEctoJV2VCwuhyEhGSwzVcFSFhdDmJCMnhGq6KkDC6nESE5HANV0VIGF1OIkJyuIarIiSMLicRITlcw1WrQsJVSQwTQEgYXU4iQnK4hqsiJIwuJxEhOVzDVRESRpeTiJAcruGqCAmjy0lESA7XcFWEhNHlJHYQknOQrVRFiJhJhCBEjIBYO0wIQsQIiLXDhCBEjIBYO0wIQsQIiLWzmQkR4xpuByFhdDmJCMnhGq6KkDC6nESE5HANV0VIGF1OokfI9czWx9eB3/O4R8B4zb3W8RxLS7lZHiE/bm7l7QkIfGvVaAqZpulLqwjXfQSM5dwrzR0LNIUc7kTKAcR/vPvsyXUJMbMfrNgviye2Tnbc78aw/IeJZkGXkFLFCr609+8sWMsIvDZ2b7wpbiGloBU+vt67PX9B7GYZGKvb9dM4udciIXer2m7XxDTL4C6rJR+HhSzZhHv9BBDiZ7XKnQhZBbN/E4T4Wa1yJ0JWwezfBCF+VqvciZBVMN/fpPYMITU6Ha4hpAP02pYIqdHpcA0hHaDXtkRIjU6HawjpAL22JUJqdDpcQ0gH6LUt/wIAAP//IBWlwQAAAAZJREFUAwBd0cLnxOwhAQAAAABJRU5ErkJggg=='
+const leaderboardIcon = 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAACiElEQVR4Aeyb3W3CQBAG7XSSzugg6SCkA9IBnVGKswEi+SG3WGvv7ecw6A4Qx/54RvuAZF4GHlIEECKlYxgQghAxAmLtMCEIESMg1g4TghAxAmLtMCEIESMg1k7OhIhd5J7aQYiYLRkh0zQdK7eKFxkhBuSjeFv5+qUkpJ6GQAcIEZAwbwEhcxoC7xEiIGHeAkLmNATe70HI67jRw3i/2pZeexDyC/ApXhEiphkhCBEjINYOE4IQMQJi7TAhCBEjINYOE4IQMQJi7TAhCBEjINYOE4IQMQJi7TAhCBEjINYOE7I3IdM0vdtOv4lNjEtZO0sm5M2663ETm5VhLRECpY4EEJIDO5wVIWF0OYEIyeEazoqQMLqcwDVCzhvdv3ZNk3N5+8u6Rsj+rnYHHSPkLsl+/PZYl3u55gtCmmhqDhBSw71ZFSFNNDUHCKnh3qzqCmlGcZBGACF3tNcfQxs9Wcqz7dBCSAhbXhBC8tiGMiMkhC0vCCF5bEOZERLClheEkDy2ocwICWHLC0JIHttQ5gIhoT6fJgghYqoRghAxAmLtMCEIESMg1g4TghAxAmLtMCEIESMg1s6/mRAxruF2EBJGlxOIkByu4awICaPLCURIDtdwVoSE0eUEIiSHazgrQsLocgIRksM1nBUhYXQ5gWuEHLb8D5hzeZet6liN5l/K/q4R+9TqHGyH1hohoYIE+QQQ4vPpfoqQ7sj9ggjx+XQ/RUh35H7BJUK+LMUne9iCwQ9LQ9leD4WM43iyfWSPWzA4tVXcTh4KuX2N514EENKL9MI6CFkIasuvebkQ4tEpOENIAXSvJEI8OgVnCCmA7pVEiEen4AwhBdC9kgjx6BScIaQAulfyGwAA//9WiYmlAAAABklEQVQDAIOpiOdSE3HMAAAAAElFTkSuQmCC'
+    class TorchAPI {
+    getInfo() {
+        return {
+            id: "torchapi",
+            name: "Torch API",
+            menuIconURI: 'data:image/png;base64,UklGRlwEAABXRUJQVlA4WAoAAAAQAAAALwAALwAAQUxQSBcCAAABoGvbtmnbGte2bdu27Rud8NqRbdu27fts27ZtHPTegzWX5hdExARY8oUf62t+bwYulPGpyf8Evhnj0Wo4z5X2psT3IAB81tEXWwj3/+N8qQs6kJXhif2I0MxennwYhh9q+PF7BNzzojEYAeN92IDIH+ROr8bf0TA6tUIvMsaDaZV6nAQDma7MMun0+gyhWRNcyEghd6+bAAEGztgnrq2JtTjwPUmCBIA/q9se12MJNX6IJAESIIDpZpNdnySSe+n/EoMAAeC0mQ10/ZJEoUuMCBC4ld/MursyE8j3ICUHCBLYX8DMbKTrxwQOiBFBfD7GnFNd78YbQ1FUAD89f2B0PnOfdD0Uq9jXokhSmfvaWNTcX7rWxZonSiL5XmOLPgzukXHyfCaKFF8vZdFzPeb6t3Sc3qIo8dfqFjMD7osWd6UkkZprcfs94xoa6zGJFDNLxjLr9RCAl3PH+kRBPmKJdriW09di/yGK5OFkzOpa/GyJknYkleTvkihe8+ctSqR+yu/NOUmUOMabyZJE8sOCvlTKESlR+32xq5JEkqtzedI4h6JI8WzpkGK76qRhR0RRpPjDglpmuRvP+YJfNkijzMeiGPrXn0TwmyYpWIPfSSkAkgAB4Oe2KVjfPxgOgnD+1DoFa/yRAnCEft81DSt9IEskCRAEAVyuZCk3upxFgkQw82on87DihNOv/pzz2/vPbBtVxpIEAFZQOCAeAgAAsA8AnQEqMAAwAD4xEodCoiEMdmd+EAGCWwAxQrLvjeLfkZ+M3yCUx+a/Zn8ksuz5c+YDeOPMA9QHmA/aD0ZuoA/qX+q6wD0AP2O9T//Ofsz8DP7n/tv8AH6+PqpRHr6c+SspADXNUnfvGiy4LByDPXP1ZajTt61Bb17GNT2uGN+uSQX5L8AA/vw12kyQv4nuahIfePayZXis3VhsxF8MtoaSAyJRWAfRroWxRoXi+C1XyWxdvp/2cMXeHIsP7NdjsayZsBtt1AtBraitXgDivWFhoSc2DV3YLZK/7nXptRA0sfmnfoypmvdigHtBVYFi3GMI4c95zFoclxisGMUt0+mjzU6X8velBgnfw1GQe8u7w4/ofbQll3nNT3PW1ERRi5+B9obg87YhMigoMOnwdmBdpXntEWiuL/MrMAT8b71UqbCfDZviSdm+dxVhRNgg9/WR7SSztIymNHxhSj44Edf1yuww3y5WPh1MemPjEttpMbdDjxwYZX1mfeekDQxsePPjsnZ4ipRyKJgI07WVUKq+1vlvYvj+1dhVOTvt86Vd2OFusGZloTG90eBN3DorPPd/3aauNjAF2zK546Hz/vKHI5ZfLuBP6/I1u/kLkdt161Hf6NGFcMyWZ1zEFKyWIW9rPDlYZEJiHkZTXdSm8jd/4XZegHxHEg5vxZv/+UB//KfP/+UDkjJaSgsQe65g75PPRa5XYygVyYHUAAA=',
+            blockIconURI: 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACyElEQVR4AcyYv24TQRDG10GEBCkS9BQ0iILy3FhuQkGDRKQUl1dIxyv48gx0eYRLk9DQIIXCcnVuEQUSBS8ASID4l2W/061jne5mZ3d2Lz75897ezs58v7u1vfKWGuCoXmR3dXPELjcIQPa6+m6NNxza9qVtcgAY7jLZd70rlrqWHIAqDgiIinGNJQd4ezy+5zIhgUgO8Ox0+dUFgPFQiOQAMMdVCMQgACNzpIIYBIBr3sb5PImNBLAgnHYQAJ87ak1z5wwCYE35troonP6cAb5F2/HcO9meV/dns391S7wlBVjkD3aJ2lGGkgHgzk/Kzz+kLpGHypEEwFWUMuQ7Fg2gUGoLxiEfE+Y3buQT344VA8AwNNPa+YFrF4/RDwaAaUhiQnr3UdsbwC4VTJYohnnU9wJYTCa7MZbK2dGTOygeQ2yAKstuTxYL8dfix5fPd47O3v+OYR452ABZVYmLYtk8evXmFwrHEgtA+mFdHo+3YT6W6fU8ToCL6XRvfQLnHGbXNT5d/umbx9mw9c3FdSfAwXz+DYEcWdOc2FUMY8O2iu04IQF0nt/qmNN5CeY7B4iLZmmKfoWRmgRQZfkXQS6FmG9yXjVtb+PKTQP0pr0ecBW4jkxzJgI4P3x6X2IL8FBvjpMT5xIWARyev/vSW9xjABBQe8qoKJxLTATQLijtAwJCHtvinNJGAVijXPOI30gAGONKBFDm+Ta3UKo4EUBellE3ZiGQIgAUvNx/uIP2piQG2L/89POmzKMuCcD9NjB7Gq2VEu9rVMBBAnjl0/pKm4OaMz94vGdC6hcV5zPmBOA+BVu0dmfeVn3zB63p1q/pxYfV1hwXbIykdQKEJodBSBH7/Xo8tEAzjwXg+xRUk5zTSCFYADCyqRBsgNQQyB8iLwAUSPEkJDm9ASyEpChyQMgB4TxUQQC2GIpDts9tMQfixlNx/wEAAP//nzOzdgAAAAZJREFUAwC4Kvsx/ej2YQAAAABJRU5ErkJggg==',
+            color1: "#e43100",
+            color2: "#cb2900",
+            color3: "#9e1800",
+            docsURI: 'https://codetorch.net/ja/projects/62507',
+            blocks: [
+                {
+                    opcode: "getUserData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: Scratch.translate("Fetch the [DATA] of user [USERNAME]"),
+                    blockIconURI: userIcon,
+                    arguments: {
+                        USERNAME: {
+                            type: Scratch.ArgumentType.STRING,
+                            defaultValue: "CodeTorch"
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "dataMenu", defaultValue: "username"
+                        }
+                    }
+                },
+                {
+                    opcode: "getProjectData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: Scratch.translate("Fetch the [DATA] of project [PROJECTID]"),
+                    blockIconURI: projectIcon,
+                    arguments: {
+                        PROJECTID: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "projectDataMenu", defaultValue: "title"
+                        }
+                    }
+                },
+                {
+                    opcode: "getPostData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: Scratch.translate("Fetch the [DATA] of post [POSTID]"),
+                    blockIconURI: postIcon,
+                    arguments: {
+                        POSTID: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "postDataMenu", defaultValue: "author"
+                        }
+                    }
+                },
+                {
+                    opcode: "getCustomAchievementData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: Scratch.translate("Fetch the [DATA] of custom achievement [ACHIEVEMENTID] for project [PROJECTID]"),
+                    blockIconURI: achievementIcon,
+                    arguments: {
+                        ACHIEVEMENTID: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        PROJECTID: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "achievementDataMenu", defaultValue: "name"
+                        }
+                    }
+                },
+                {
+                    opcode: "getCollectionData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: Scratch.translate("Fetch the [DATA] of collection [COLLECTIONID] for user [USERNAME]"),
+                    blockIconURI: collectionIcon,
+                    arguments: {
+                        COLLECTIONID: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        USERNAME: {
+                            type: Scratch.ArgumentType.STRING,
+                            defaultValue: "CodeTorch"
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "collectionDataMenu", defaultValue: "name"
+                        }
+                    }
+                },
+                {
+                    opcode: "getLeaderboardData",
+                    blockType: Scratch.BlockType.REPORTER,
+                    text: Scratch.translate("Fetch the [DATA] for the leaderboard of users with the [RANK] rank"),
+                    blockIconURI: leaderboardIcon,
+                    arguments: {
+                        RANK: {
+                            type: Scratch.ArgumentType.NUMBER,
+                            defaultValue: 1
+                        },
+                        DATA: {
+                            type: Scratch.ArgumentType.STRING,
+                            menu: "leaderboardDataMenu", defaultValue: "Username"
+                        }
+                    }
+                },
+                {
+                    opcode: "isUsernameAvailable",
+                    blockType: Scratch.BlockType.BOOLEAN,
+                    text: Scratch.translate("Is user [USERNAME] available?"),
+                    blockIconURI: userIcon,
+                    arguments: {
+                        USERNAME: {
+                            type: Scratch.ArgumentType.STRING,
+                            defaultValue: "CodeTorch"
+                        }
+                    }
+                }
+            ],
+            menus: {
+                dataMenu: {
+                    items: [
+                        { text: "Username", value: "username" },
+                        { text: "Display name", value: "display_name" },
+                        { text: "Icon URL", value: "pfp" },
+                        { text: "User ID", value: "id" },
+                        { text: "Following", value: "following_count" },
+                        { text: "Followers", value: "followers_count" },
+                        { text: "Verification Status", value: "verified" },
+                        { text: "Backdrop", value: "backdrop" },
+                        { text: "Cover", value: "cover" },
+                        { text: "Font", value: "font" },
+                        { text: "Joined Date", value: "joined"},
+                        { text: "Scratch Account", value: "scratch" },
+                        { text: "Projects", value: "projects" },
+                        { text: "Pinned Projects", value: "pinned_project_ids" }
+                    ]
+                },
+                projectDataMenu: {
+                    items: [
+                        { text: "Title", value: "title" },
+                        { text: "Thumbnail", value: "thumbnail" },
+                        { text: "Project Type", value: "project_type" },
+                        { text: "Views", value: "views_count" },
+                        { text: "Loves", value: "loves_count" },
+                        { text: "Likes", value: "likes_count" },
+                        { text: "Comments Disabled", value: "comments_disabled" },
+                        { text: "Creator", value: "creator" },
+                        { text: "Shared Date", value: "shared_date" },
+                        { text: "Last Edited", value: "edit_ts" },
+                        { text: "Anonymous Views", value: "anonymous_views_count" },
+                        { text: "Anonymous Loves", value: "anonymous_loves_count" },
+                        { text: "Anonymous Likes", value: "anonymous_likes_count" }
+                    ]
+                },
+                postDataMenu: {
+                    items: [
+                        { text: "Author", value: "author" },
+                        { text: "Post Type", value: "post_type" },
+                        { text: "Content", value: "text_content" },
+                        { text: "Created at", value: "created_at" },
+                        { text: "Loves", value: "loves_count" },
+                        { text: "Reposts", value: "reposts_count" },
+                        { text: "Comments", value: "comments_count" },
+                        { text: "Votes", value: "votes_count" },
+                        { text: "Comments Disabled", value: "comments_disabled" }
+                    ]
+                },
+                achievementDataMenu: {
+                    items: [
+                        { text: "ID", value: "id" },
+                        { text: "Name", value: "name" },
+                        { text: "Description", value: "description" },
+                        { text: "Icon", value: "icon_url" },
+                        { text: "Rarity", value: "rarity" },
+                        { text: "Is Secret", value: "is_secret" }
+                    ]
+                },
+                collectionDataMenu: {
+                    items: [
+                        { text: "ID", value: "id" },
+                        { text: "Name", value: "name" },
+                        { text: "Thumbnail", value: "thumbnail" }
+                    ]
+                },
+                leaderboardDataMenu: {
+                    items: [
+                        { text: "Username", value: "Username" },
+                        { text: "Display Name", value: "DisplayName" },
+                        { text: "Icon URL", value: "PFP" },
+                        { text: "Followers", value: "Followers" }
+                    ]
+                }
+            }
+        };
+    }
+
+    async getUserData(args) {
+        try {
+            const username = encodeURIComponent(args.USERNAME);
+            const res = await fetch(`https://api.codetorch.net/v1/users/${username}`);
+            if (!res.ok) return "";
+            const data = await res.json();
+            if(args.DATA === "joined") return data.actions_done?.[0].timestamp ?? "None";
+            if(args.DATA === "scratch") return data.social_media_links?.scratch ?? "None";
+            if(args.DATA === "projects") return JSON.stringify(data.projects?.map(item => item.id)) || "None";
+            return data[args.DATA] ?? "None";
+        } catch (e) {
+            return "Communication failure";
+        }
+    }
+
+    async getProjectData(args) {
+        try {
+            const projectId = encodeURIComponent(args.PROJECTID);
+            const res = await fetch(`https://api.codetorch.net/v1/projects/${projectId}`);
+            if (!res.ok) return "";
+            const data = await res.json();
+            if (args.DATA === "creator") return data.author?.username ?? "None";
+            return data[args.DATA] ?? "None";
+        } catch (e) {
+            return "Communication failure";
+        }
+    }
+
+    async getPostData(args) {
+        try {
+            const postId = encodeURIComponent(args.POSTID);
+            const res = await fetch(`https://api.codetorch.net/v1/posts/${postId}`);
+            if (!res.ok) return "";
+            const data = await res.json();
+            if (args.DATA === "author") return data.author?.username ?? "None";
+            return data[args.DATA] ?? "None";
+        } catch (e) {
+            return "Communication failure";
+        }
+    }
+
+    async getCustomAchievementData(args = {}) {
+    try {
+        const projectId = encodeURIComponent(args.PROJECTID ?? "");
+
+        const res = await fetch(
+            `https://api.codetorch.net/v1/projects/custom/${projectId}/achievements`
+        );
+
+        if (!res.ok) return "";
+
+        const data = await res.json();
+
+        if (args.ACHIEVEMENTID) {
+            const item = data.find(item => item.id === args.ACHIEVEMENTID);
+            return item?.[args.DATA] ?? "";
+        }
+
+        return JSON.stringify(data.map(item => item?.[args.DATA])) || "None";
+
+    } catch (e) {
+        return "Communication failure";
+    }
+    }
+
+    async getCollectionData(args = {}) {
+    try {
+        const username = encodeURIComponent(args.USERNAME ?? "");
+
+        const res = await fetch(
+            `https://api.codetorch.net/v1/collections/users/${username}`
+        );
+
+        if (!res.ok) return "";
+
+        const data = await res.json();
+
+        if (args.COLLECTIONID) {
+            const item = data.find(item => item.id === args.COLLECTIONID);
+            return item?.[args.DATA] ?? "";
+        }
+
+        return JSON.stringify(data.map(item => item?.[args.DATA])) || "None";
+
+    } catch (e) {
+        return "Communication failure";
+    }
+    }
+
+    async getLeaderboardData(args = {}) {
+    try {
+        const res = await fetch(
+            `https://api.codetorch.net/v1/leaderboard/users`
+        );
+
+        if (!res.ok) return "";
+
+        const data = await res.json();
+
+        if (args.RANK) {
+            const item = data.leaderboard[args.RANK-1];
+            return item?.[args.DATA] ?? "";
+        }
+
+        return JSON.stringify(data.map(item => item.Username)) || "None";
+
+    } catch (e) {
+        return "Communication failure";
+    }
+    }
+
+    async isUsernameAvailable(args = {}) {
+    try {
+        const username = encodeURIComponent(args.USERNAME ?? "");
+
+        const res = await fetch(
+            `https://api.codetorch.net/v1/users/check-username-availability?username=${username}`
+        );
+
+        if (!res.ok) return "";
+
+        const data = await res.json();
+
+        return data.is_available ?? "None";
+
+    } catch (e) {
+        return "Communication failure";
+    }
+    }
+    }
+
+Scratch.extensions.register(new TorchAPI());
+})(Scratch);
